@@ -1,6 +1,6 @@
 # Chapter 3: Data Visualization with ggplot2
 # R for Data Science – Section 3.1 to 3.3.1
-# Author: Prof. [Your Name]
+# Author: Sunday Adetunji, MD
 
 # Load Required Packages
 install.packages("tidyverse")  # Only run once
